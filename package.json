@@ -1,0 +1,25 @@
+{
+  "name": "June",
+  "version": "1.0.0",
+  "description": "A Headless CMS",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucassssss/June.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lucassssss/June/issues"
+  },
+  "homepage": "https://github.com/Lucassssss/June#readme",
+  "dependencies": {
+    "koa": "^2.7.0",
+    "koa-router": "^7.4.0"
+  }
+}
